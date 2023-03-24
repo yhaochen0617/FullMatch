@@ -1,2 +1,2 @@
 # FullMatch
-Official implementation of Boosting Semi-Supervised Learning by Exploiting All Unlabeled Data (CVPR2023)
+Official Pytorch implementation of Boosting Semi-Supervised Learning by Exploiting All Unlabeled Data (CVPR2023)
